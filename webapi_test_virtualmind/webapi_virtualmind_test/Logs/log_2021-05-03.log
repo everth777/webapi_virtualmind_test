@@ -1,0 +1,589 @@
+2021-05-03 01:27:13 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:27:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:32:27 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:32:30 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:33:15 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:33:15 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:35:07 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:35:08 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:37:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:37:57 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:38:12 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:38:12 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:41:03 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:41:04 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:43:30 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:43:32 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:44:10 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:44:10 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:44:45 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:44:45 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:47:05 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:47:07 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 01:50:22 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 01:50:24 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:04:45 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:04:47 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:09:32 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:09:34 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:10:16 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:10:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:10:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:10:41 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:10:56 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:10:56 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:12:47 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:12:50 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:12:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 02:12:56 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:13:10 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:13:11 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:13:17 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 02:13:18 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:14:11 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:14:11 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:21:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:21:42 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:22:57 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:22:59 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:24:49 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:24:50 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:25:26 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:25:26 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:27:07 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:27:10 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:27:28 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:27:29 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:27:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:27:40 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:27:43 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:27:44 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:27:56 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:27:57 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:28:38 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:28:38 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:29:06 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:29:06 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:29:59 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:30:02 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:30:36 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:30:37 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:31:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:31:56 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:33:02 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:33:04 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:33:06 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:33:06 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:33:44 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:33:45 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:34:29 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:34:29 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:42:52 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:42:54 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:43:16 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:43:17 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:43:20 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:43:21 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:44:05 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:44:06 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:45:07 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:45:08 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:45:21 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:45:21 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:45:22 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:45:23 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:45:23 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:45:24 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:45:44 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:45:45 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:46:08 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:46:09 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:46:18 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:46:18 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:46:31 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:46:32 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:46:48 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:46:48 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:46:56 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:46:56 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:47:29 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:47:31 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:47:32 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:47:32 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:47:34 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:47:34 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:47:35 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:47:35 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:47:38 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 02:47:39 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:48:57 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:48:59 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:49:00 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 02:49:00 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:49:02 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 02:49:02 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 02:49:03 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 02:49:03 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:09:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 03:09:57 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:09:59 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 03:09:59 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:10:54 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 03:10:55 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:10:56 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 03:10:56 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:11:02 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 03:11:02 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:11:03 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 03:11:03 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:11:39 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 03:11:39 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:11:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 03:11:41 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:24:25 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 03:24:27 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 03:24:28 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 03:24:28 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 04:20:53 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 04:20:53 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 04:20:55 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 04:20:55 [Information] TransactionImp-purchase-Preparing the transaction object to be saved in database 
+2021-05-03 04:20:56 [Information] TransactionImp-purchase-Before saving the transaction in database 
+2021-05-03 04:20:57 [Information] TransactionImp-purchase-After executing _context.SaveChanges() had this result-->int id = 1 
+2021-05-03 04:37:34 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 04:37:34 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 04:37:36 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 04:37:36 [Information] TransactionImp-purchase-Preparing the transaction object to be saved in database 
+2021-05-03 04:37:37 [Information] TransactionImp-purchase-Before saving the transaction in database 
+2021-05-03 04:37:39 [Information] TransactionImp-purchase-After executing _context.SaveChanges() had this result-->int id = 1 
+2021-05-03 04:50:41 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 04:50:43 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 04:50:45 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 04:50:45 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 04:50:48 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 04:50:49 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:02:45 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:02:47 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:02:47 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:02:48 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:02:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:02:55 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:02:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:02:56 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:03:30 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:03:30 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:03:30 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:03:31 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:03:36 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:03:36 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:03:36 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:03:37 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:03:53 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:03:54 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:03:54 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:03:55 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:04:12 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:04:12 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:04:12 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:04:12 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:04:39 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:04:40 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:04:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:04:40 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:04:43 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:04:43 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:04:43 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:04:44 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:05:28 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:05:29 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:05:29 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:05:29 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:06:01 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:06:01 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:06:03 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:06:03 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:06:03 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:06:04 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:06:04 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:06:04 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:06:21 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:06:21 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:06:21 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:06:21 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:06:38 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:06:38 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:06:38 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:06:39 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:10 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:07:10 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:10 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:07:10 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:13 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:07:14 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:14 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:07:14 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:49 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:07:51 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:51 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:07:51 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:51 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:07:51 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:52 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:07:53 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:53 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:07:53 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:57 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:07:58 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:07:58 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:07:58 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:08:09 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:08:09 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:08:09 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:08:10 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:08:21 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:08:22 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:08:22 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:08:22 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:08:24 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:08:24 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:08:24 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:08:25 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:08:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:08:40 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:08:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:08:41 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:09:20 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:09:20 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:09:20 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:09:21 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:09:36 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:09:36 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:09:36 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:09:37 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:10:09 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:10:11 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:10:11 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:10:11 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:10:11 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:10:12 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:10:12 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:10:12 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:10:16 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:10:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:10:16 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:10:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:11:02 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:11:03 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:11:03 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:11:03 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:11:35 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:11:35 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:11:37 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:11:37 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:11:39 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:11:39 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:11:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:11:40 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:11:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:11:41 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:14:17 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:14:19 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:14:19 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:14:19 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:14:52 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:14:52 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:14:53 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:14:53 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:16:36 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:16:37 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:16:37 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:16:37 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:17:01 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:17:01 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:17:01 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:17:02 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:17:35 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:17:35 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:17:35 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:17:36 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:18:06 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:18:06 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:18:06 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:18:06 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:18:11 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:18:11 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:18:11 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:18:11 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:18:43 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:18:44 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:18:44 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:18:44 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:18:51 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:18:51 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:18:51 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:18:51 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:19:04 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:19:04 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:19:05 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:21:05 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:21:06 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:21:06 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:21:07 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:22:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:22:56 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:22:56 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:22:57 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:23:01 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:23:02 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:23:02 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:23:02 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:23:07 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:23:07 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:23:08 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:23:38 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:23:38 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:23:38 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:23:39 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:23:45 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:23:45 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:23:45 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:24:19 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:24:19 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:24:20 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:24:20 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:24:29 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:24:29 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:24:30 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:24:59 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:24:59 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:24:59 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:24:59 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:25:15 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:25:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:25:16 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:25:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:25:19 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:25:19 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:25:20 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:26:33 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:26:35 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:26:35 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:26:35 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:26:38 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:26:38 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:26:38 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:27:09 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:27:09 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:27:09 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:27:10 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:27:13 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:27:13 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:27:13 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:27:37 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:27:39 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:27:39 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:27:39 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:27:42 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:27:42 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:27:43 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:28:16 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:28:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:28:16 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:28:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:28:25 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:28:25 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:28:25 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:28:26 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:28:28 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:28:29 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:28:29 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:28:29 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:28:34 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:28:34 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:28:34 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:29:01 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:29:01 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:29:01 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:29:02 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:29:06 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:29:06 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:29:07 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:29:39 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:29:41 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:29:41 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:29:41 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:29:48 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:29:49 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:29:49 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:29:49 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:29:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:29:55 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:29:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:29:55 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:29:58 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:29:58 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:29:58 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:29:59 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:30:04 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:30:05 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:30:05 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:30:05 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:30:49 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:30:49 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:30:49 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:30:49 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:31:02 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:31:02 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:31:02 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:31:02 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:31:07 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:31:07 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:31:07 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:31:23 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:31:23 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:31:23 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:31:23 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:31:27 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:31:27 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:31:27 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:31:28 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:31:34 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:31:34 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:31:34 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:31:34 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:31:42 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:31:42 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:31:44 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:32:22 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:32:22 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:32:22 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(BRL) Retrieved Successfully","Data":{"Id":0,"Buying":23.125,"Selling":24.625,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:32:22 [Information] TransactionImp-purchase-Preparing the transaction object to be saved in database 
+2021-05-03 05:32:22 [Information] TransactionImp-purchase-Before saving the transaction in database 
+2021-05-03 05:32:22 [Information] TransactionImp-purchase-After executing _context.SaveChanges() had this result-->int id = 1 
+2021-05-03 05:34:20 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:34:20 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:34:22 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(BRL) Retrieved Successfully","Data":{"Id":0,"Buying":23.125,"Selling":24.625,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:35:09 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:35:09 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:35:11 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:35:11 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:35:12 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:35:13 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:35:14 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:35:14 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:35:15 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:35:15 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:35:18 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:35:19 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:35:19 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:35:19 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:39:08 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:39:09 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:39:09 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:39:10 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:39:30 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:39:31 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:39:31 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:39:31 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:39:50 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:39:51 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:39:51 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:39:51 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:41:48 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:41:49 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:41:50 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:41:50 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:16 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:42:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:16 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:42:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:19 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:42:20 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:21 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:42:21 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:24 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:42:24 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:24 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:42:24 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:47 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:42:48 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:48 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:42:48 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:42:55 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:42:55 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:42:56 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:43:03 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:43:03 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:43:03 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:43:04 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:43:24 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:43:24 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:43:24 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:43:24 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:43:59 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:44:00 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:44:00 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:44:01 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:44:18 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:44:18 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:44:18 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:44:18 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:44:32 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:44:32 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:44:32 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:44:32 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:48:36 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:48:38 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:48:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:48:40 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:48:44 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:48:44 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:48:45 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:48:45 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:48:45 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:48:46 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:48:55 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:48:55 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:48:56 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(BRL) Retrieved Successfully","Data":{"Id":0,"Buying":23.125,"Selling":24.625,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:49:38 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:49:38 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:49:38 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(BRL) Retrieved Successfully","Data":{"Id":0,"Buying":23.125,"Selling":24.625,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:49:44 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:49:44 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:49:44 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(BRL) Retrieved Successfully","Data":{"Id":0,"Buying":23.125,"Selling":24.625,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:49:44 [Information] TransactionImp-purchase-Preparing the transaction object to be saved in database 
+2021-05-03 05:49:45 [Information] TransactionImp-purchase-Before saving the transaction in database 
+2021-05-03 05:49:46 [Information] TransactionImp-purchase-After executing _context.SaveChanges() had this result-->int id = 1 
+2021-05-03 05:50:40 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:50:41 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:50:41 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:50:41 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:50:48 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:50:48 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:50:48 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:50:49 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:50:51 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:50:51 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:50:51 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:50:52 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:50:59 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:50:59 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:50:59 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:51:00 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:51:21 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-03 05:51:21 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:51:21 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-03 05:51:22 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-03 05:51:29 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:51:29 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:51:30 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:51:30 [Information] TransactionImp-purchase-Preparing the transaction object to be saved in database 
+2021-05-03 05:51:30 [Information] TransactionImp-purchase-Before saving the transaction in database 
+2021-05-03 05:51:30 [Information] TransactionImp-purchase-After executing _context.SaveChanges() had this result-->int id = 1 
+2021-05-03 05:51:42 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-03 05:51:42 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-03 05:51:42 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(BRL) Retrieved Successfully","Data":{"Id":0,"Buying":23.125,"Selling":24.625,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-03 05:51:42 [Information] TransactionImp-purchase-Preparing the transaction object to be saved in database 
+2021-05-03 05:51:42 [Information] TransactionImp-purchase-Before saving the transaction in database 
+2021-05-03 05:51:42 [Information] TransactionImp-purchase-After executing _context.SaveChanges() had this result-->int id = 1 

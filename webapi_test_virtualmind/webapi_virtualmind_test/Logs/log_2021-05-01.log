@@ -1,0 +1,19 @@
+2021-05-01 22:27:56 [Information] Starting to get exchange rate of the day 
+2021-05-01 22:27:59 [Information] Exchange rate retrieved successfully. 
+2021-05-01 23:06:32 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (USD) 
+2021-05-01 23:06:32 [Error] ExchangeRateImp-GetExchangeRate--> 
+2021-05-01 23:06:34 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-01 23:30:14 [Information] ExchangeRateImp-GetExchangeRate-Starting to get exchange rate of the day with currency: (BRL) 
+2021-05-01 23:30:16 [Information] ExchangeRateImp-GetExchangeRate-Exchange rate retrieved successfully. 
+2021-05-01 23:34:29 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-01 23:34:31 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-01 23:34:40 [Information] TransactionImp-purchase-Result after getting exchange rate-->webapi_virtualmind_test.Util.DetailResponse 
+2021-05-01 23:35:20 [Information] TransactionImp-purchase-Preparing the transaction object to be saved in database 
+2021-05-01 23:35:24 [Information] TransactionImp-purchase-Before saving the transaction in database 
+2021-05-01 23:35:28 [Information] TransactionImp-purchase-After executing _context.SaveChanges() had this result-->int id = 1 
+2021-05-01 23:38:28 [Information] TransactionImp-purchase-Starting on purchase function with this transaction object-->webapi_virtualmind_test.Model.Transaction 
+2021-05-01 23:38:28 [Information] TransactionImp-purchase-Starting to get the exchange rate 
+2021-05-01 23:38:30 [Information] TransactionImp-purchase-Result after getting exchange rate-->{"Id":0,"Message":"Success|(USD) Retrieved Successfully","Data":{"Id":0,"Buying":92.5,"Selling":98.5,"Date":"Actualizada al 30/4/2021 15:00"}} 
+2021-05-01 23:38:30 [Information] TransactionImp-purchase-Preparing the transaction object to be saved in database 
+2021-05-01 23:38:31 [Information] TransactionImp-purchase-Before saving the transaction in database 
+2021-05-01 23:38:33 [Information] TransactionImp-purchase-After executing _context.SaveChanges() had this result-->int id = 1 
